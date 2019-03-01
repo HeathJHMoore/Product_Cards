@@ -1,0 +1,24 @@
+#container {
+    /* border: solid 1px black; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.Cards {
+    width: 30%;
+    box-shadow: 2px 2px;
+    margin-bottom: 15px;
+}
+
+img {
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.title {
+    border: solid 1px lightblue;
+}
