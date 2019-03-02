@@ -13,6 +13,7 @@
 
 img {
     width: 100%;
+    margin: auto;
 }
 
 h2 {
@@ -21,4 +22,18 @@ h2 {
 
 .title {
     border: solid 1px lightblue;
+}
+
+.description {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.section_two p {
+    font-weight: bold;
+}
+
+.section_three p {
+    font-weight: bold;
 }
