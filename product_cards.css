@@ -1,14 +1,17 @@
 #container {
     /* border: solid 1px black; */
     display: flex;
+    margin: auto;
     flex-wrap: wrap;
     justify-content: space-between;
+    width: 80%;
 }
 
 .Cards {
     width: 30%;
-    box-shadow: 2px 2px;
+    box-shadow: 2px 2px 2px 2px #455A64;
     margin-bottom: 15px;
+    border: solid 1px black;
 }
 
 img {
@@ -22,12 +25,20 @@ h2 {
 
 .title {
     border: solid 1px lightblue;
+    color: white;
+    background-color:;
 }
 
 .description {
     text-align: justify;
     margin-left: 5px;
     margin-right: 5px;
+}
+
+.Availability {
+    width: 100%;
+    color: yellow;
+    background-color: darkgray;
 }
 
 .section_two p {
@@ -37,3 +48,22 @@ h2 {
 .section_three p {
     font-weight: bold;
 }
+
+
+
+
+
+
+
+
+
+
+
+.dark-primary-color    { background: #455A64; }
+.default-primary-color { background: #607D8B; }
+.light-primary-color   { background: #CFD8DC; }
+.text-primary-color    { color: #FFFFFF; }
+.accent-color          { background: #009688; }
+.primary-text-color    { color: #212121; }
+.secondary-text-color  { color: #757575; }
+.divider-color         { border-color: #BDBDBD; }
