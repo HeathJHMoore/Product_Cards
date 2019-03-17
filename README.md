@@ -1,13 +1,12 @@
 # Product Cards
 
-Getting some practice with flexbox and responsive by making some product cards. Checkout my work here 
+Getting some practice with flexbox and responsive design by making some product cards. Checkout my work here 
 
 ![Image of Web-page.](https://raw.githubusercontent.com/HeathJHMoore/Product_Cards/master/images/Product_Cards.png "Screenshot of my webpage")
-)
 
 
 ## Pre Requisites
-To run this program, you'll need to set up the _http-server_ on your machine
+To run this program, you'll need to set up http-server on your machine
 
 ```
 $ npm install -g http-server
