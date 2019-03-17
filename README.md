@@ -2,7 +2,7 @@
 
 Getting some practice with flexbox and responsive by making some product cards. Checkout my work here 
 
-![Image of Web-page.](https://raw.githubusercontent.com/HeathJHMoore/pet-adoption/master/images/Pet-Adoption.png "Screenshot of my webpage")
+![Image of Web-page.](https://raw.githubusercontent.com/HeathJHMoore/Product_Cards/master/images/Product_Cards.png "Screenshot of my webpage")
 )
 
 
